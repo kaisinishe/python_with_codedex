@@ -9,7 +9,7 @@ To get started, make sure you have Python 3 installed on your computer. You can 
 
 ## Exercises
 
-The `exercises` directory contains small exercises I completed to practice my Python skills. Each subdirectory corresponds to a different source, such as a book, course, or website.
+This repository contains small exercises I completed to practice my Python skills. Each directory corresponds to a different source, such as a book, course, or website.
 
 ## Contributing
 
