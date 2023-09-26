@@ -1,7 +1,4 @@
 # learning_python
-# My Python Exercises
-
-This repository contains small exercises I completed to learn Python from different sources.
 
 ## Getting Started
 
